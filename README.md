@@ -1,6 +1,6 @@
 # Library-Management-System
 
-This project has been designed for Database Management Systems subject. This system is meant for educational institutes where the administrator can keep track of library books loaned to students in the institute. The user will be able to:
+This project has been designed for our Database Management Systems subject. This system is meant for educational institutes where the administrator can keep track of library books loaned to students in the institute. The user will be able to:
 - Enter login credentials to access the portal.
 - Update their contact, passsword, name, email id and mobile number.
 - View students' details.
